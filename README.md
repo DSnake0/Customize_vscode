@@ -1,15 +1,8 @@
-#!/bin/bash
+# Customize_vscode
 
-# Variables for the README content
-REPO_NAME="Customize_vscode"
-REPO_LINK="https://github.com/DSnake0/Customize_vscode.git"
-DESCRIPTION="✨ Transform your Visual Studio Code editor with 🎨 custom CSS, 💻 JavaScript, and a pre-configured settings.json file. Personalize your coding environment with animations, styles, and an optimized setup 🚀."
+[![GitHub stars](https://img.shields.io/github/stars/DSnake0/Customize_vscode?style=social)](https://github.com/DSnake0/Customize_vscode)
 
-# Create the README.md file
-cat << EOF > README.md
-# $REPO_NAME
-
-$DESCRIPTION
+✨ Transform your Visual Studio Code editor with 🎨 custom CSS, 💻 JavaScript, and a pre-configured `settings.json` file. Personalize your coding environment with animations, styles, and an optimized setup 🚀.
 
 ## 📂 Repository Contents
 - `custom.css`: Custom styles for the VS Code interface.
@@ -21,7 +14,7 @@ $DESCRIPTION
 ### Linux
 1. Clone the repository:
    ```bash
-   git clone $REPO_LINK
+   git clone https://github.com/DSnake0/Customize_vscode.git
    ```
 2. Navigate to the cloned directory:
    ```bash
@@ -36,7 +29,7 @@ $DESCRIPTION
 ### macOS
 1. Clone the repository:
    ```bash
-   git clone $REPO_LINK
+   git clone https://github.com/DSnake0/Customize_vscode.git
    ```
 2. Navigate to the cloned directory:
    ```bash
@@ -51,7 +44,7 @@ $DESCRIPTION
 ### Windows
 1. Clone the repository:
    ```cmd
-   git clone $REPO_LINK
+   git clone https://github.com/DSnake0/Customize_vscode.git
    ```
 2. Navigate to the cloned directory:
    ```cmd
@@ -87,8 +80,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ### 🌟 Support
-If you enjoy this project, give it a ⭐ on [GitHub]($REPO_LINK) and share it with others!
-EOF
-
-# Notify the user that the README file has been created
-echo "README.md has been created successfully for $REPO_NAME!"
+If you enjoy this project, give it a ⭐ on [GitHub](https://github.com/DSnake0/Customize_vscode) and share it with others!
