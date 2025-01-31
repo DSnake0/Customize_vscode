@@ -1,6 +1,6 @@
 # Customize_vscode
 
-[![GitHub stars](https://img.shields.io/github/stars/DSnake0/Customize_vscode?style=social)](https://github.com/DSnake0/Customize_vscode)
+[![GitHub stars](https://img.shields.io/github/stars/ExploitEngineer/Customize_vscode?style=social)](https://github.com/ExploitEngineer/Customize_vscode)
 
 ✨ Transform your Visual Studio Code editor with 🎨 custom CSS, 💻 JavaScript, and a pre-configured `settings.json` file. Personalize your coding environment with animations, styles, and an optimized setup 🚀.
 
@@ -14,7 +14,7 @@
 ### Linux
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DSnake0/Customize_vscode.git
+   git clone https://github.com/ExploitEngineer/Customize_vscode.git
    ```
 2. Navigate to the cloned directory:
    ```bash
@@ -29,7 +29,7 @@
 ### macOS
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DSnake0/Customize_vscode.git
+   git clone https://github.com/ExploitEngineer/Customize_vscode.git
    ```
 2. Navigate to the cloned directory:
    ```bash
@@ -44,7 +44,7 @@
 ### Windows
 1. Clone the repository:
    ```cmd
-   git clone https://github.com/DSnake0/Customize_vscode.git
+   git clone https://github.com/ExploitEngineer/Customize_vscode.git
    ```
 2. Navigate to the cloned directory:
    ```cmd
@@ -80,4 +80,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ### 🌟 Support
-If you enjoy this project, give it a ⭐ on [GitHub](https://github.com/DSnake0/Customize_vscode) and share it with others!
+If you enjoy this project, give it a ⭐ on [GitHub](https://github.com/ExploitEngineer/Customize_vscode) and share it with others!
